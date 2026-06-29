@@ -1,0 +1,62 @@
+{
+    "faction name": "",
+    "army special rules": [
+        {
+            "name": "",
+            "description": ""
+        },
+        {
+            "name": "",
+            "description": ""
+        }
+    ],
+    "units": [
+        {
+            "HQ": {
+                "HQ Teams": [
+                    {
+                        "Officers": [
+                            {
+                                "name": "",
+                                "point cost": {
+                                    "inexperienced": "",
+                                    "regular": "",
+                                    "veteran": ""
+                                },
+                                "unit composition": "",
+                                "unit type": "",
+                                "base size": "",
+                                "standard weapon": "",
+                                "movement rate": {
+                                    "advance": "",
+                                    "run": ""
+                                },
+                                "quality": {
+                                    "inexperienced": {
+                                        "damage value": "",
+                                        "morale value": ""
+                                    },
+                                    "regular": {
+                                        "damage value": "",
+                                        "morale value": ""
+                                    },
+                                    "veteran": {
+                                        "damage value": "",
+                                        "morale value": ""
+                                    }
+                                },
+                                "options": {
+                                    "Additional soldiers with (insert weapon here)": {
+                                        "inexperienced": "",
+                                        "regular": "",
+                                        "veteran": ""
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
